@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(14, 38, 82);
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    border-radius: 20px;
+    margin: 20px;
+
+}
+p,a,li{
+    color:aliceblue;
+    font-size: 14px;
+    /* font-weight: bold; */
+}
+h1,h2{
+    color:aliceblue;
+}
